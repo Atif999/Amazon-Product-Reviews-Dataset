@@ -10,7 +10,19 @@ Year: 2024
 <br>
 Total Reviews: 6,217
 <br>
-Labels: Human (0), AI-generated (1), AI-assisted (2)
+Dataset Feaures:
+<br>
+title
+<br>
+body
+<br>
+rating
+<br>
+hasImage
+<br>
+hasVideo
+<br>
+isAI: Human (0), AI-generated (1), AI-assisted (2)
 <br>
 Platform: Amazon
 <br>
